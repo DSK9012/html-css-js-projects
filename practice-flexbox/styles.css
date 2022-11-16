@@ -5,7 +5,7 @@
 }
 
 .container{
-  background-color: rgba(192, 192, 192, 0.5);
+  background-color: #c0c0c080;
   padding: 10px;
   height: 900px;
   display: flex;
